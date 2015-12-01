@@ -32,7 +32,7 @@ const App = createClass({
       const newArr = this.state.list.slice();
       newArr.splice(index, 1);
       this.setState({
-        list: newlist,
+        list: newArr,
       });
     },
 
