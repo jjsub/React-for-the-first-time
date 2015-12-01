@@ -1,4 +1,4 @@
-# React Starter
+# React Starter  | Todo list
 ### A barebones starter for react applications.
 
 ### Table of Contents
